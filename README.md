@@ -1,5 +1,5 @@
 # Read Me Generator 
-[Application](https://www.youtube.com/watch?v=QmUmZwnMGX8&feature=youtu.be)
+Here's a link to the application: [Application](https://www.youtube.com/watch?v=QmUmZwnMGX8&feature=youtu.be)
 
 # Table of Contents 
 (Application)
@@ -13,6 +13,7 @@ for there applications.
 
 # Contact
 If you have any questions about the application you can contact me on github or linkedIn!
+
 [linkedIn](https://www.linkedin.com/in/tornubari-koboo/)
 
 [Github](https://github.com/TornubariKoboo)
