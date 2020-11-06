@@ -2,19 +2,22 @@
 const questions = [
 "What is the name of your project?",
 'what is the application for?',
-'how do you plan on using this application?',
+'how do you plan on posting this application?',
 'what technologies did you need to create this application?', 
 'what contributes did you have on this application?',
 ];
 
 // function to write README file
+const a = process.argv[2];
 const fs = require('fs');
 function writeToFile(fileName, data) {
-    fs.writeFile('readME.md','ust8', (data))
-    console.log(writeToFile(readMe, questions))
+    fs.writeFile('readME.md',process.argv[2], (err) =>
+     err ? console.error(err) :
+    console.log(writeToFile()))
 }
+
 const inquirer = require('inquirer');
-inquirer
+  inquirer
   .prompt([
     {
       type: 'input',
@@ -23,7 +26,7 @@ inquirer
     },
     {
       type: 'input',
-      message: "what is the application for?",
+      message: "What licence is required for the readMe?",
       name: 'purpose',
     },
     {
