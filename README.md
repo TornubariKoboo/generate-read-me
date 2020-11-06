@@ -2,7 +2,7 @@
 [Application](https://www.youtube.com/watch?v=QmUmZwnMGX8&feature=youtu.be)
 
 # Table of Contents 
-[Application]
+(Application)
 [Description]
 [Licence]
 [Contact]
@@ -12,8 +12,8 @@ This application allows users to create a good readME
 for there applications. 
 
 # Contact
-[linkedIn]https://www.linkedin.com/in/tornubari-koboo/
-[Github]https://github.com/TornubariKoboo
+[linkedIn](https://www.linkedin.com/in/tornubari-koboo/)
+[Github](https://github.com/TornubariKoboo)
 
 # Licence 
 The MIT License
