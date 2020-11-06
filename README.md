@@ -1,5 +1,7 @@
 # Read Me Generator 
 Here's a link to the application: [Application](https://www.youtube.com/watch?v=QmUmZwnMGX8&feature=youtu.be)
+<img width="761" alt="Screen Shot 2020-11-06 at 1 09 45 AM" src="https://user-images.githubusercontent.com/69223691/98332488-c8590a00-1fcc-11eb-9f38-03bd7a3741f5.png">
+
 
 # Table of Contents 
 (Application)
