@@ -1,12 +1,6 @@
 # Read Me Generator 
 Here's a link to the application: [Application](https://www.youtube.com/watch?v=QmUmZwnMGX8&feature=youtu.be)
 
-# Table of Contents 
-(Application)
-[Description]
-[Licence]
-[Contact]
-
 # Description 
 This application allows users to create a good readME 
 for there applications. 
@@ -14,9 +8,9 @@ for there applications.
 # Contact
 If you have any questions about the application you can contact me on github or linkedIn!
 
-[linkedIn](https://www.linkedin.com/in/tornubari-koboo/)
+Check out my LineIn page [linkedIn](https://www.linkedin.com/in/tornubari-koboo/)
 
-[Github](https://github.com/TornubariKoboo)
+Visit my github page [Github](https://github.com/TornubariKoboo)
 
 # Licence 
 MIT License
